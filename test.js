@@ -19,7 +19,7 @@
       "command": "type",
       "target": "name=q",
       "targets": [],
-      "value": "ชุดธนาคาร"
+      "value": "ชุด"
     }, {
       "id": "bc2651c8-91c5-4635-8807-7eb174dd20f0",
       "comment": "",
